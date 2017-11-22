@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GALAXY NETWORK</title>
+	<atom:link href="http://localhost/aymen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galaxynetworke.github.io/technologique-societe-tn</link>
+	<description>Votre Slogan</description>
+	<lastBuildDate>Wed, 15 Nov 2017 00:00:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.7</generator>
+
+<image>
+	<url>https://galaxynetworke.github.io/technologique-societe-tn/wp-content/uploads/2017/05/15179077_1176933265725609_3738706344487856249_n-150x150.png</url>
+	<title>GALAXY NETWORK</title>
+	<link>https://galaxynetworke.github.io/technologique-societe-tn</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Promotion du mois de Mars 2017</title>
+		<link>https://galaxynetworke.github.io/technologique-societe-tn/2017/05/14/hello-world/</link>
+		<comments>https://galaxynetworke.github.io/technologique-societe-tn/2017/05/14/hello-world/#comments</comments>
+		<pubDate>Sun, 14 May 2017 11:02:17 +0000</pubDate>
+		<dc:creator><![CDATA[Aymens]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://galaxynetworke.github.io/technologique-societe-tn/?p=1</guid>
+		<description><![CDATA[Profitez de notre promotion , Contactez nous et demandez vos devis gratuitement . 97 626 022 58 453 382   ]]></description>
+				<content:encoded><![CDATA[<div class="_xlr"><span id="fbPhotoSnowliftCaption" class="fbPhotosPhotoCaption" tabindex="0" data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="hasCaption">Profitez de notre promotion , Contactez nous et demandez vos devis gratuitement . 97 626 022 58 453 382</span></span></p>
+<div id="fbPhotoSnowliftCallToActionButton" class="fbPhotosPhotoButtons">  <img class="alignnone size-medium wp-image-56" src="https://galaxynetworke.github.io/technologique-societe-tn/wp-content/uploads/2017/05/17155584_1283065285112406_391873964636516151_n-300x251.png" alt="" width="300" height="251" srcset="https://galaxynetworke.github.io/technologique-societe-tn/wp-content/uploads/2017/05/17155584_1283065285112406_391873964636516151_n-300x251.png 300w, https://galaxynetworke.github.io/technologique-societe-tn/wp-content/uploads/2017/05/17155584_1283065285112406_391873964636516151_n-768x644.png 768w, https://galaxynetworke.github.io/technologique-societe-tn/wp-content/uploads/2017/05/17155584_1283065285112406_391873964636516151_n.png 940w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>https://galaxynetworke.github.io/technologique-societe-tn/2017/05/14/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
